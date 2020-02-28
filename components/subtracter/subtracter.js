@@ -3,7 +3,7 @@ const subtract = (x, y) => { return x - y }
 const subtracter = new Vue({
   el: '#subtracter',
   data: {
-    first: 6,
+    first: 5,
     second: 2
   },
   computed: {
